@@ -1,2 +1,2 @@
-# Question-Answering-of-a-document-with-Fine-tuned-LLM
-A sample project to show case fine tuning of NLP Model for question Answering purpose using Keras and Huggingface transformers.
+# Question-Answering-of-a-document
+A sample project to showcase fine-tuning of the NLP Model for question-answering purposes using Keras and Huggingface transformers.
